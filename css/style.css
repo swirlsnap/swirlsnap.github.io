@@ -198,7 +198,7 @@
 		input[type="password"]:focus,
 		input[type="email"]:focus,
 		textarea:focus {
-			border-color: #A0276B;
+			border-color: #9A56F9;
 		}
 
 	input[type="text"],
@@ -525,8 +525,8 @@
 		input[type="submit"].special,
 		input[type="reset"].special,
 		.button.special {
-			background: #A0276B;
-			border-color: #A0276B;
+			background: #9A56F9;
+			border-color: #9A56F9;
 			color: white !important;
 		}
 
@@ -780,7 +780,7 @@
 			}
 
 			.dropotron > li:hover > a {
-				background: #A0276B;
+				background: #9A56F9;
 				color: white;
 			}
 
