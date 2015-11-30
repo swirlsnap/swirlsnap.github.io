@@ -2,8 +2,8 @@
 title: Steeze
 email: uid0@protonmail.ch
 description: Get Steeze for winter, a ski blog!
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://locahost:4000" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://steeze.ski" # the base hostname & protocol for your site
 twitter_username: swirlsnap
 github_username:  swirlsnap
 
